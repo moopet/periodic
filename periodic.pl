@@ -278,7 +278,7 @@ sub elemental
 
 sub usage
 {
-    print "periodic version $version, by Ben Sinclair, copyright 2008-2009.
+    print "periodic version $version, by Ben Sinclair.
 
 usage: periodic [OPTIONS] [flags]
 
